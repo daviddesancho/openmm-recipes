@@ -7,4 +7,4 @@ What's in here?
 *  alaTB: scripts and files to set up equilibrium runs for the 
 terminally blocked alanine residue.
 
-You can read the documentation [here](https://mastermsm.readthedocs.io).
+You can find more information about OpenMM [here](http://openmm.org/).
